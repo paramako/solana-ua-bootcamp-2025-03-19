@@ -1,0 +1,12 @@
+[package]
+name = "rust-exercises"
+version = "0.1.0"
+edition = "2024"
+authors = ["Yurii <paramako@gmail.com>"]
+
+[dependencies]
+"solana-sdk" = "2.2.2"
+"solana-client" = "2.2.6"
+"dotenvy" = "0.15.7"
+"serde" = "1.0.219"
+"serde_json" = "1.0.140"
